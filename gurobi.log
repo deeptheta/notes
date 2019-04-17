@@ -212,3 +212,777 @@ Solution count 1: 6
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 6.000000000000e+00, best bound 6.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Python) logging started 04/16/19 14:15:14
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12204 rows, 6379 columns and 2496567 nonzeros
+Variable types: 5867 continuous, 512 integer (512 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+04]
+Presolve removed 10155 rows and 43 columns
+Presolve time: 1.82s
+Presolved: 2049 rows, 6336 columns, 2464392 nonzeros
+Variable types: 5824 continuous, 512 integer (512 binary)
+
+Root relaxation: objective 0.000000e+00, 183 iterations, 0.14 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    2s
+
+Explored 0 nodes (183 simplex iterations) in 2.51 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12204 rows, 6379 columns and 2496567 nonzeros
+Variable types: 5867 continuous, 512 integer (512 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+04]
+Presolve removed 10155 rows and 43 columns
+Presolve time: 1.69s
+Presolved: 2049 rows, 6336 columns, 2464392 nonzeros
+Variable types: 5824 continuous, 512 integer (512 binary)
+
+Root relaxation: objective 0.000000e+00, 183 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.0000000    0.00000  0.00%     -    2s
+
+Explored 0 nodes (183 simplex iterations) in 2.37 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12204 rows, 6379 columns and 2496567 nonzeros
+Variable types: 1067 continuous, 5312 integer (512 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+04]
+Presolve removed 10155 rows and 43 columns
+Presolve time: 1.58s
+Presolved: 2049 rows, 6336 columns, 2464396 nonzeros
+Variable types: 1024 continuous, 5312 integer (512 binary)
+
+Root relaxation: objective 0.000000e+00, 161 iterations, 0.13 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       0.0000000    0.00000  0.00%     -    2s
+     0     0    0.00000    0   26    0.00000    0.00000  0.00%     -    2s
+
+Explored 0 nodes (161 simplex iterations) in 2.63 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Python) logging started 04/17/19 13:13:21
+
+Academic license - for non-commercial use only
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13710 rows, 6414 columns and 2501046 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+04]
+Presolve removed 10147 rows and 0 columns
+Presolve time: 1.75s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 948 iterations, 0.48 seconds
+Total elapsed time = 5.08s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   13          -    0.00000      -     -    7s
+     0     0    0.00000    0    9          -    0.00000      -     -    8s
+     0     0    0.00000    0    8          -    0.00000      -     -   11s
+     0     0    0.00000    0    8          -    0.00000      -     -   12s
+     0     0    0.00000    0   10          -    0.00000      -     -   16s
+     0     0    0.00000    0   13          -    0.00000      -     -   17s
+     0     0    0.00000    0    9          -    0.00000      -     -   18s
+     0     0    0.00000    0   10          -    0.00000      -     -   18s
+     0     0    0.00000    0   12          -    0.00000      -     -   21s
+     0     0    0.00000    0   16          -    0.00000      -     -   21s
+     0     0    0.00000    0    8          -    0.00000      -     -   28s
+     0     0    0.00000    0    7          -    0.00000      -     -   28s
+     0     0    0.00000    0    5          -    0.00000      -     -   29s
+     0     0    0.00000    0    5          -    0.00000      -     -   29s
+     0     0    0.00000    0    5          -    0.00000      -     -   30s
+     0     0    0.00000    0    5          -    0.00000      -     -   31s
+     0     2    0.00000    0    5          -    0.00000      -     -   68s
+    19    24    0.00000    5   17          -    0.00000      -  67.5   70s
+   265   265    0.00000   43   11          -    0.00000      -  67.2   79s
+*  312    24              48       0.0000000    0.00000  0.00%  62.2   79s
+
+Cutting planes:
+  MIR: 17
+  Flow cover: 25
+
+Explored 435 nodes (26896 simplex iterations) in 79.51 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13710 rows, 6414 columns and 2501046 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 13710 rows and 6414 columns
+Presolve time: 0.55s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.84 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13710 rows, 6414 columns and 2501046 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 13710 rows and 6414 columns
+Presolve time: 0.51s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.80 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13710 rows, 6414 columns and 2501046 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 13710 rows and 6414 columns
+Presolve time: 0.50s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.78 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning for adding constraints: zero or small (< 1e-13) coefficients, ignored
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13710 rows, 6414 columns and 2501046 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 13710 rows and 6414 columns
+Presolve time: 0.50s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.79 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 13675 rows and 6414 columns
+Presolve time: 0.51s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.81 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12247 rows, 6380 columns and 2496694 nonzeros
+Variable types: 1067 continuous, 5313 integer (513 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 12247 rows and 6380 columns
+Presolve time: 0.50s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.87 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12247 rows, 6380 columns and 2496694 nonzeros
+Variable types: 1067 continuous, 5313 integer (513 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 2e+38]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+05]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 11691 rows and 1067 columns
+Presolve time: 4.53s
+Presolved: 556 rows, 5313 columns, 2482840 nonzeros
+Variable types: 513 continuous, 4800 integer (0 binary)
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 5.19 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12247 rows, 6380 columns and 2496694 nonzeros
+Variable types: 1067 continuous, 5313 integer (513 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 9e+307]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 12247 rows and 6380 columns
+Presolve time: 0.48s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.97 seconds
+Thread count was 1 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.9885e+307) exceeds tolerance
+         (possibly due to large matrix coefficients)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12247 rows, 6380 columns and 2496694 nonzeros
+Variable types: 1067 continuous, 5313 integer (513 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+09]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+09]
+Warning: Model contains large matrix coefficient range
+Warning: Model contains large rhs
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10155 rows and 43 columns
+Presolve time: 2.40s
+Presolved: 2092 rows, 6337 columns, 2486424 nonzeros
+Variable types: 1025 continuous, 5312 integer (512 binary)
+
+Root relaxation: objective 0.000000e+00, 194 iterations, 0.17 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   32          -    0.00000      -     -    4s
+     0     0    0.00000    0   32          -    0.00000      -     -    8s
+     0     2    0.00000    0   32          -    0.00000      -     -   47s
+   129   126    0.00000   17   15          -    0.00000      -   1.5   50s
+*  145    23              32       0.0000000    0.00000  0.00%   1.6   50s
+
+Explored 237 nodes (650 simplex iterations) in 50.33 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+09]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+09]
+Warning: Model contains large matrix coefficient range
+Warning: Model contains large rhs
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.68s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 220 iterations, 0.14 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   65          -    0.00000      -     -    4s
+     0     0    0.00000    0   56          -    0.00000      -     -    5s
+     0     0    0.00000    0   55          -    0.00000      -     -    6s
+     0     0    0.00000    0   25          -    0.00000      -     -   12s
+     0     0    0.00000    0   25          -    0.00000      -     -   12s
+     0     0    0.00000    0   13          -    0.00000      -     -   16s
+     0     0    0.00000    0    3          -    0.00000      -     -   21s
+     0     0    0.00000    0    6          -    0.00000      -     -   21s
+     0     0    0.00000    0    5          -    0.00000      -     -   22s
+     0     0    0.00000    0    4          -    0.00000      -     -   22s
+     0     0    0.00000    0    4          -    0.00000      -     -   23s
+     0     0    0.00000    0    4          -    0.00000      -     -   24s
+H    0     0                       0.0000000    0.00000  0.00%     -   55s
+     0     0    0.00000    0    4    0.00000    0.00000  0.00%     -   55s
+
+Cutting planes:
+  Implied bound: 38
+  MIR: 3
+  Flow cover: 46
+
+Explored 1 nodes (2761 simplex iterations) in 55.06 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+09]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+09]
+Warning: Model contains large matrix coefficient range
+Warning: Model contains large rhs
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.70s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 220 iterations, 0.13 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   65          -    0.00000      -     -    4s
+     0     0    0.00000    0   56          -    0.00000      -     -    5s
+     0     0    0.00000    0   55          -    0.00000      -     -    6s
+     0     0    0.00000    0   26          -    0.00000      -     -   11s
+     0     0    0.00000    0   26          -    0.00000      -     -   11s
+     0     0    0.00000    0   13          -    0.00000      -     -   18s
+     0     0    0.00000    0   13          -    0.00000      -     -   18s
+     0     0    0.00000    0   13          -    0.00000      -     -   21s
+     0     0    0.00000    0   13          -    0.00000      -     -   21s
+*    0     0               0       0.0000000    0.00000  0.00%     -   22s
+
+Cutting planes:
+  Implied bound: 54
+  MIR: 15
+  Flow cover: 56
+
+Explored 1 nodes (1923 simplex iterations) in 22.41 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+06]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.73s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 320 iterations, 0.22 seconds
+Total elapsed time = 5.60s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0    1          -    0.00000      -     -    5s
+*    0     0               0       0.0000000    0.00000  0.00%     -    6s
+
+Cutting planes:
+  MIR: 2
+
+Explored 1 nodes (584 simplex iterations) in 6.82 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+06]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.64s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 320 iterations, 0.21 seconds
+Total elapsed time = 5.39s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0    1          -    0.00000      -     -    5s
+*    0     0               0       0.0000000    0.00000  0.00%     -    6s
+
+Cutting planes:
+  MIR: 2
+
+Explored 1 nodes (584 simplex iterations) in 6.60 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+04]
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.66s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 948 iterations, 0.47 seconds
+Total elapsed time = 6.81s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   13          -    0.00000      -     -    6s
+     0     0    0.00000    0    9          -    0.00000      -     -    8s
+     0     0    0.00000    0    8          -    0.00000      -     -   11s
+     0     0    0.00000    0    8          -    0.00000      -     -   12s
+     0     0    0.00000    0   10          -    0.00000      -     -   16s
+     0     0    0.00000    0   13          -    0.00000      -     -   17s
+     0     0    0.00000    0    9          -    0.00000      -     -   18s
+     0     0    0.00000    0   10          -    0.00000      -     -   18s
+     0     0    0.00000    0   12          -    0.00000      -     -   21s
+     0     0    0.00000    0   16          -    0.00000      -     -   21s
+     0     0    0.00000    0    8          -    0.00000      -     -   28s
+     0     0    0.00000    0    7          -    0.00000      -     -   28s
+     0     0    0.00000    0    5          -    0.00000      -     -   29s
+     0     0    0.00000    0    5          -    0.00000      -     -   29s
+     0     0    0.00000    0    5          -    0.00000      -     -   31s
+     0     0    0.00000    0    5          -    0.00000      -     -   31s
+     0     2    0.00000    0    5          -    0.00000      -     -   69s
+     7    14    0.00000    3   20          -    0.00000      -  59.6   70s
+   265   265    0.00000   43   11          -    0.00000      -  67.2   80s
+*  312    24              48       0.0000000    0.00000  0.00%  62.2   80s
+
+Cutting planes:
+  MIR: 17
+  Flow cover: 25
+
+Explored 435 nodes (26896 simplex iterations) in 80.37 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+05]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.66s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 383 iterations, 0.22 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       0.0000000    0.00000  0.00%     -    4s
+     0     0    0.00000    0    2    0.00000    0.00000  0.00%     -    4s
+
+Explored 0 nodes (727 simplex iterations) in 4.56 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+06]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+06]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.68s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 320 iterations, 0.22 seconds
+Total elapsed time = 5.44s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0    1          -    0.00000      -     -    5s
+*    0     0               0       0.0000000    0.00000  0.00%     -    6s
+
+Cutting planes:
+  MIR: 2
+
+Explored 1 nodes (584 simplex iterations) in 6.64 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 5e+05]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 5e+05]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.70s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 320 iterations, 0.22 seconds
+Total elapsed time = 5.99s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0    1          -    0.00000      -     -    6s
+*    0     0               0       0.0000000    0.00000  0.00%     -    7s
+
+Cutting planes:
+  MIR: 2
+
+Explored 1 nodes (608 simplex iterations) in 7.22 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 13675 rows, 6414 columns and 2501012 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+Coefficient statistics:
+  Matrix range     [1e-08, 1e+05]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 1e+05]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.69s
+Presolved: 3563 rows, 6414 columns, 2490900 nonzeros
+Variable types: 1067 continuous, 5347 integer (547 binary)
+
+Root relaxation: objective 0.000000e+00, 383 iterations, 0.23 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+H    0     0                       0.0000000    0.00000  0.00%     -    4s
+     0     0    0.00000    0    2    0.00000    0.00000  0.00%     -    4s
+
+Explored 0 nodes (727 simplex iterations) in 4.55 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
