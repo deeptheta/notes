@@ -1,0 +1,12 @@
+Light Magenta adversarial also found @ BIG_M1=5, BIG_M2=5 with Gurobi
+
+Run time:  74.30766987800598
+l1r[221]: 6.624038507987453e-07
+l1r[250]: 8.875132619028153e-06
+Linear Light Magentaness Score Rule falsified: True	 Numerical stability: False
+MILP max score @[20]:      0.49
+NN   max conf. @[20]:      4.38% 	 (vs.  4.38%)
+Actual adversarial found:  True
+
+
+Total time:  75.75971817970276

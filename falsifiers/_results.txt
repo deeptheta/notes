@@ -1,0 +1,36 @@
+threshold = 0
+Run time:  15.199459314346313
+Linear Redness Score           Rule falsified: False	 Numerical stability: None
+
+threshold = 0.001
+Run time:  96.22641348838806
+Linear Redness Score           0.00000 Rule falsified: False	 Numerical stability: None
+
+threshold = 0.01
+Run time:  177.73720502853394
+Linear Redness Score           0.00000 Rule falsified: False	 Numerical stability: None
+
+threshold = 0.04
+Run time:  1679.6532063484192
+Linear Redness Score           0.00000 Rule falsified: False	 Numerical stability: None
+
+threshold = 0.06
+ran for hours, stopped manually
+
+threshold = 0.1
+Run time:  1617.899397611618
+l1r[183]: 1.5429347548024165e-06
+l0a[2097]: -5.40093263081548e-09
+Linear Redness Score           0.10000 Rule falsified: True	 Numerical stability: False
+MILP max score @[14]:      5.73
+NN   max conf. @[14]:     18.48% 	 (vs. 18.48%)
+Actual adversarial found: True
+
+threshold = 0.5046
+Run time:  86.64849710464478
+l1r[99]: 0.9999990804921721
+l1r[330]: 6.913817789408821e-07
+Linear Redness Score           Rule falsified: True	 Numerical stability: False
+MILP max score @[14]:      0.69
+NN   max conf. @[14]:     11.03% 	 (vs. 11.03%)
+Actual adversarial found: True
