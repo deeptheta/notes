@@ -1,0 +1,62 @@
+Run time:  1155.6746199131012
+Linear Redness Score           Rule falsified: True	 Numerical stability: True
+
+
+Run time:  2637.6150102615356
+Linear Greenness Score         Rule falsified: True	 Numerical stability: True
+
+
+Run time:  2898.6113505363464
+Linear Blueness Score          Rule falsified: True	 Numerical stability: True
+
+
+Run time:  2907.255099773407
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: True
+
+
+Run time:  296.0248234272003
+Linear Magentaness Score       Rule falsified: True	 Numerical stability: True
+
+
+Run time:  356.3900146484375
+Linear Cyanness Score          Rule falsified: True	 Numerical stability: True
+
+
+Run time:  36.62887740135193
+Linear Dark Redness Score      Rule falsified: True	 Numerical stability: True
+
+
+Run time:  38.679245948791504
+Linear Dark Greenness Score    Rule falsified: True	 Numerical stability: True
+
+
+Run time:  36.1414897441864
+Linear Dark Blueness Score     Rule falsified: True	 Numerical stability: True
+
+
+Run time:  51.08833360671997
+Linear Light Yellowness Score  Rule falsified: True	 Numerical stability: True
+
+
+Run time:  37.275355100631714
+Linear Light Magentaness Score Rule falsified: True	 Numerical stability: True
+
+
+Run time:  200.06812691688538
+Linear Light Cyanness Score    Rule falsified: True	 Numerical stability: True
+
+
+Run time:  44.63602113723755
+Linear Red-Greenness Score     Rule falsified: True	 Numerical stability: True
+
+
+Run time:  42.64103960990906
+Linear Red-Blueness Score      Rule falsified: True	 Numerical stability: True
+
+
+Run time:  50.00300669670105
+Linear Green-Blueness Score    Rule falsified: True	 Numerical stability: True
+
+
+Run time:  28.742297887802124
+Linear Intensity Score         Rule falsified: True	 Numerical stability: True

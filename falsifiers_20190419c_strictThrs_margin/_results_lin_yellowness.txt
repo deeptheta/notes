@@ -1,0 +1,60 @@
+threshold = 0.001
+Run time:  121.62007761001587
+Linear Yellowness Score        Rule falsified: False	 Numerical stability: None
+
+threshold = 0.0015
+Run time:  123.86170601844788
+Linear Yellowness Score        Rule falsified: False	 Numerical stability: None
+
+threshold = 0.0018
+Run time:  120.82805514335632
+Linear Yellowness Score        Rule falsified: False	 Numerical stability: None
+
+threshold = 0.0019
+Run time:  135.3591935634613
+Linear Yellowness Score        Rule falsified: False	 Numerical stability: None
+
+threshold = 0.00195
+Run time:  134.6582510471344
+l1r[170]: 0.9999996151237172
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: False
+MILP max score @[ 8]:     21.15
+NN   max conf. @[ 8]:     50.01% 	 (vs. 50.01%)
+Actual adversarial found: True
+
+threshold = 0.002
+Run time:  141.7742462158203
+l0a[2701]: 50.99999999113259
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: False
+MILP max score @[ 8]:     20.83
+NN   max conf. @[40]:     50.16% 	 (vs. 49.84%)
+Actual adversarial found: False
+========!!!!!!!!!!!!!=====^^^^^
+But, it may be the case that the found adversarial is not the only one, and that there exists a proper, numerically stable adversarial as well (that will then fool the NN necessarily). Checked with Xpress, and found it, unfortunately.
+Run time:  3028.3539276123047
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: True
+MILP max score @[ 8]:     20.60
+NN   max conf. @[ 8]:     50.01% 	 (vs. 50.01%)
+Actual adversarial found: True
+
+threshold = 0.003
+Run time:  126.04760646820068
+l0a[2829]: 115.99999999255265
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: False
+MILP max score @[ 8]:     20.25
+NN   max conf. @[ 8]:     50.11% 	 (vs. 50.11%)
+Actual adversarial found: True
+
+threshold = 0.005
+Run time:  150.37821984291077
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: True
+MILP max score @[ 8]:     18.85
+NN   max conf. @[ 8]:     50.20% 	 (vs. 50.20%)
+Actual adversarial found: True
+
+threshold = 0.01
+Run time:  176.0346395969391
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: True
+MILP max score @[ 8]:     19.86
+NN   max conf. @[ 8]:     50.08% 	 (vs. 50.08%)
+Actual adversarial found: True

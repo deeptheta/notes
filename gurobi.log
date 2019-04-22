@@ -372,3 +372,188 @@ Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
 Gurobi 8.1.1 (win64, Python) logging started 04/18/19 17:51:03
 
 Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/18/19 19:38:20
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/18/19 19:44:28
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/19/19 07:43:28
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/19/19 08:13:05
+
+Academic license - for non-commercial use only
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12583 rows, 6388 columns and 2497710 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+Coefficient statistics:
+  Matrix range     [5e-11, 5e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 5e+04]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.59s
+Presolved: 2471 rows, 6388 columns, 2487594 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+
+Root relaxation: objective 0.000000e+00, 483 iterations, 0.21 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   47          -    0.00000      -     -    4s
+     0     0    0.00000    0   21          -    0.00000      -     -    7s
+     0     2    0.00000    0   10          -    0.00000      -     -   61s
+*   44    18              10       0.0000000    0.00000  0.00%  15.7   62s
+
+Explored 55 nodes (1885 simplex iterations) in 62.98 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12583 rows, 6388 columns and 2497710 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+Coefficient statistics:
+  Matrix range     [5e-11, 5e+04]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 5e+04]
+Warning: Model contains large matrix coefficient range
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.62s
+Presolved: 2471 rows, 6388 columns, 2487594 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+
+Root relaxation: objective 0.000000e+00, 483 iterations, 0.22 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   47          -    0.00000      -     -    4s
+     0     0    0.00000    0   21          -    0.00000      -     -    7s
+     0     2    0.00000    0   10          -    0.00000      -     -   61s
+*   44    18              10       0.0000000    0.00000  0.00%  15.7   62s
+
+Explored 55 nodes (1885 simplex iterations) in 62.76 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12583 rows, 6388 columns and 2497710 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+Coefficient statistics:
+  Matrix range     [5e-11, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.57s
+Presolved: 2471 rows, 6388 columns, 2487594 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+
+Root relaxation: objective 0.000000e+00, 831 iterations, 0.41 seconds
+Total elapsed time = 6.58s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   57          -    0.00000      -     -    8s
+     0     0    0.00000    0   54          -    0.00000      -     -   12s
+     0     2    0.00000    0   54          -    0.00000      -     -   51s
+   339   338    0.00000   44   15          -    0.00000      -   2.9   55s
+   971   972    0.00000  155    8          -    0.00000      -   2.7   60s
+  1583  1586    0.00000  227    8          -    0.00000      -   3.8   65s
+  2277  2277    0.00000  311    4          -    0.00000      -   4.2   70s
+  2941  2942    0.00000  418    1          -    0.00000      -   4.0   76s
+  3439  3440    0.00000  495    3          -    0.00000      -   3.8   80s
+  4177  4179    0.00000  622    3          -    0.00000      -   3.7   86s
+  4720  4721    0.00000  715    2          -    0.00000      -   3.7   91s
+  5323  5324    0.00000  815    1          -    0.00000      -   3.5   96s
+  5971  5972    0.00000  926    1          -    0.00000      -   3.4  101s
+  6314  6315    0.00000  867   54          -    0.00000      -   3.3  107s
+  6316  6316    0.00000  303   57          -    0.00000      -   3.3  117s
+  6317  6317    0.00000  804   54          -    0.00000      -   3.3  121s
+  6318  6318    0.00000  694   54          -    0.00000      -   3.3  167s
+  6319  6321    0.00000   16   53          -    0.00000      -   0.3  172s
+  6412  6378    0.00000   26   43          -    0.00000      -   0.4  175s
+  6723  6588    0.00000   55    3          -    0.00000      -   0.8  181s
+* 6733  5902              60       0.0000000    0.00000  0.00%   0.8  181s
+
+Explored 6869 nodes (29517 simplex iterations) in 181.54 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter QCPDual to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 12583 rows, 6388 columns and 2497710 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+Coefficient statistics:
+  Matrix range     [5e-11, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e-05, 3e+02]
+Presolve removed 10112 rows and 0 columns
+Presolve time: 1.60s
+Presolved: 2471 rows, 6388 columns, 2487594 nonzeros
+Variable types: 1067 continuous, 5321 integer (521 binary)
+
+Root relaxation: infeasible, 360 iterations, 0.26 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 infeasible    0               - infeasible      -     -    2s
+
+Explored 0 nodes (360 simplex iterations) in 2.95 seconds
+Thread count was 12 (of 12 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.1.1 (win64, Python) logging started 04/19/19 09:09:04
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/19/19 10:20:18
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/19/19 10:21:56
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 04/20/19 09:43:24
+
+Academic license - for non-commercial use only

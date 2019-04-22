@@ -1,0 +1,117 @@
+All falsified.
+
+Run time:  50.40312218666077
+Linear Redness Score           Rule falsified: True	 Numerical stability: True
+MILP max score @[10]:     21.45
+NN   max conf. @[10]:    100.00% 	 (vs. 100.00%)
+Actual adversarial found: True
+
+
+Run time:  113.85227656364441
+Linear Greenness Score         Rule falsified: True	 Numerical stability: True
+MILP max score @[37]:      2.20
+NN   max conf. @[37]:     16.20% 	 (vs. 16.20%)
+Actual adversarial found: True
+
+
+Run time:  25.20628309249878
+Linear Blueness Score          Rule falsified: True	 Numerical stability: True
+MILP max score @[ 5]:     21.66
+NN   max conf. @[ 5]:     61.59% 	 (vs. 61.59%)
+Actual adversarial found: True
+
+
+Run time:  63.110501289367676
+Linear Yellowness Score        Rule falsified: True	 Numerical stability: True
+MILP max score @[12]:     13.23
+NN   max conf. @[12]:     97.45% 	 (vs. 97.45%)
+Actual adversarial found: True
+
+
+Run time:  63.45520257949829
+Linear Magentaness Score       Rule falsified: True	 Numerical stability: True
+MILP max score @[ 5]:     45.71
+NN   max conf. @[ 5]:     99.88% 	 (vs. 99.88%)
+Actual adversarial found: True
+
+
+Run time:  67.20227479934692
+Linear Cyanness Score          Rule falsified: True	 Numerical stability: True
+MILP max score @[ 7]:      8.76
+NN   max conf. @[ 7]:     59.77% 	 (vs. 59.77%)
+Actual adversarial found: True
+
+
+Run time:  112.23066425323486
+Linear Dark Redness Score      Rule falsified: True	 Numerical stability: True
+MILP max score @[ 2]:     11.14
+NN   max conf. @[ 2]:     39.78% 	 (vs. 39.78%)
+Actual adversarial found: True
+
+
+Run time:  237.3771367073059
+l1r[88]: 4.991802809235948e-07
+Linear Dark Greenness Score    Rule falsified: True	 Numerical stability: False
+MILP max score @[ 2]:     11.70
+NN   max conf. @[ 2]:     50.17% 	 (vs. 50.17%)
+Actual adversarial found: True
+
+
+Run time:  105.1364107131958
+Linear Dark Blueness Score     Rule falsified: True	 Numerical stability: True
+MILP max score @[28]:      0.47
+NN   max conf. @[28]:     41.80% 	 (vs. 41.80%)
+Actual adversarial found: True
+
+
+Run time:  506.73366141319275
+l1r[22]: 1.002464100286917e-06
+Linear Light Yellowness Score  Rule falsified: True	 Numerical stability: False
+MILP max score @[ 0]:      0.76
+NN   max conf. @[ 0]:     19.08% 	 (vs. 19.08%)
+Actual adversarial found: True
+
+
+Run time:  132.97516512870789
+Linear Light Magentaness Score Rule falsified: True	 Numerical stability: True
+MILP max score @[15]:      7.45
+NN   max conf. @[15]:     48.07% 	 (vs. 48.07%)
+Actual adversarial found: True
+
+
+Run time:  243.82330465316772
+Linear Light Cyanness Score    Rule falsified: True	 Numerical stability: True
+MILP max score @[35]:     11.35
+NN   max conf. @[35]:     32.89% 	 (vs. 32.89%)
+Actual adversarial found: True
+
+
+Run time:  106.26712656021118
+Linear Red-Greenness Score     Rule falsified: True	 Numerical stability: True
+MILP max score @[39]:      3.93
+NN   max conf. @[39]:     22.47% 	 (vs. 22.47%)
+Actual adversarial found: True
+
+
+Run time:  82.65441870689392
+Linear Red-Blueness Score      Rule falsified: True	 Numerical stability: True
+MILP max score @[ 2]:     21.38
+NN   max conf. @[ 2]:     50.01% 	 (vs. 50.01%)
+Actual adversarial found: True
+
+
+Run time:  114.73718857765198
+Linear Green-Blueness Score    Rule falsified: True	 Numerical stability: True
+MILP max score @[21]:     10.75
+NN   max conf. @[21]:     39.48% 	 (vs. 39.48%)
+Actual adversarial found: True
+
+
+Run time:  107.02572727203369
+Linear Intensity Score         Rule falsified: True	 Numerical stability: True
+MILP max score @[35]:      0.54
+NN   max conf. @[35]:     21.63% 	 (vs. 21.63%)
+Actual adversarial found: True
+
+
+Total time:  2160.261038541794

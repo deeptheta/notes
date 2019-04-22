@@ -1,0 +1,58 @@
+threshold = 0.001
+Run time:  137.2980740070343
+Linear Greenness Score         Rule falsified: False	 Numerical stability: None
+
+threshold = 0.01
+Run time:  972.8563838005066
+Linear Greenness Score         Rule falsified: False	 Numerical stability: None
+
+threshold = 0.015
+Run time:  478.65117168426514
+l0a[3299]: 22.000000013877642
+l0a[4377]: 255.000000009521
+Linear Greenness Score         Rule falsified: True	 Numerical stability: False
+MILP max score @[12]:      8.83
+NN   max conf. @[12]:     27.91% 	 (vs. 27.91%)
+Actual adversarial found: True
+
+threshold = 0.02
+Run time:  2038.2112321853638
+l0a[2286]: 254.00000000930297
+l0a[3095]: 255.00000001364603
+Linear Greenness Score         Rule falsified: True	 Numerical stability: False
+MILP max score @[12]:     12.84
+NN   max conf. @[12]:     35.14% 	 (vs. 35.14%)
+Actual adversarial found: True
+
+threshold = 0.025
+Run time:  472.6180589199066
+l0a[298]: 254.99999999546492
+l0a[3525]: 172.0000000134822
+Linear Greenness Score         Rule falsified: True	 Numerical stability: False
+MILP max score @[12]:     17.54
+NN   max conf. @[ 9]:     34.18% 	 (vs. 34.17%)
+Actual adversarial found: False
+
+threshold = 0.04
+Run time:  563.8903453350067
+l0a[2460]: 255.00000001168485
+Linear Greenness Score         Rule falsified: True	 Numerical stability: False
+MILP max score @[20]:      5.76
+NN   max conf. @[20]:     20.02% 	 (vs. 20.02%)
+Actual adversarial found: True
+
+threshold = 0.06
+Run time:  594.0866417884827
+l0a[526]: 83.9999999962804
+l0a[1260]: 1.0000000120544823
+Linear Greenness Score         Rule falsified: True	 Numerical stability: False
+MILP max score @[12]:      5.57
+NN   max conf. @[12]:     20.75% 	 (vs. 20.75%)
+Actual adversarial found: True
+
+threshold = 0.1
+Run time:  730.5753591060638
+Linear Greenness Score         Rule falsified: True	 Numerical stability: True
+MILP max score @[12]:     17.47
+NN   max conf. @[12]:     47.90% 	 (vs. 47.90%)
+Actual adversarial found: True
